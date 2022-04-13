@@ -11,6 +11,16 @@ p{
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+h1{
+    color: darkorange;
+}
+h2{
+    color: darkgoldenrod;
+}
 h3{
     color:burlywood
+}
+
+img{
+    background-color: darkgrey;
 }
