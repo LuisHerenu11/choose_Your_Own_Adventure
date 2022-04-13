@@ -1,6 +1,16 @@
 .centrado{
     text-align: center;
 }
+
 body{
-    background-color: #008000;
+    background-color:#080006;
+}
+
+p{
+    color: chocolate;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color:burlywood
 }
