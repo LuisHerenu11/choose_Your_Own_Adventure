@@ -13,16 +13,16 @@
 }
 
 p{
-    color: chocolate;
+    color: goldenrod;
+    padding-top: 6px;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 h1{
     color: darkorange;
 }
-h2{
-    color: darkgoldenrod;
-}
+
 h3{
     color:burlywood
 }
@@ -38,7 +38,11 @@ a{
 .ul_estilizado{
     padding-left: 4px;
     padding-right: 4px;
-    position: fixed;
+    position: relative;
     bottom: 0;
+}
+
+.container{
     width: 100vw;
+    height: 100vw;
 }
